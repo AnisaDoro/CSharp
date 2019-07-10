@@ -1,0 +1,213 @@
+C:\Users\Artem\Desktop\VideoPlayer\VideoPlayer\bin\Debug\VideoPlayer.exe.config
+C:\Users\Artem\Desktop\VideoPlayer\VideoPlayer\bin\Debug\VideoPlayer.exe
+C:\Users\Artem\Desktop\VideoPlayer\VideoPlayer\bin\Debug\VideoPlayer.pdb
+C:\Users\Artem\Desktop\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csprojAssemblyReference.cache
+C:\Users\Artem\Desktop\VideoPlayer\VideoPlayer\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Artem\Desktop\VideoPlayer\VideoPlayer\obj\Debug\App.g.cs
+C:\Users\Artem\Desktop\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer_MarkupCompile.cache
+C:\Users\Artem\Desktop\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer_MarkupCompile.lref
+C:\Users\Artem\Desktop\VideoPlayer\VideoPlayer\obj\Debug\Views\MainWindow.baml
+C:\Users\Artem\Desktop\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.g.resources
+C:\Users\Artem\Desktop\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.Properties.Resources.resources
+C:\Users\Artem\Desktop\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csproj.GenerateResource.cache
+C:\Users\Artem\Desktop\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csproj.CoreCompileInputs.cache
+C:\Users\Artem\Desktop\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.exe
+C:\Users\Artem\Desktop\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.pdb
+C:\Users\Artem\Desktop\VideoPlayer\VideoPlayer\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Artem\Desktop\VideoPlayer\VideoPlayer\bin\Debug\MaterialDesignColors.dll
+C:\Users\Artem\Desktop\VideoPlayer\VideoPlayer\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Artem\Desktop\VideoPlayer\VideoPlayer\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Artem\Desktop\VideoPlayer\VideoPlayer\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Artem\Desktop\VideoPlayer\VideoPlayer\obj\Debug\App.baml
+C:\Users\Artem\Desktop\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csproj.CopyComplete
+C:\Users\noris\Desktop\VideoPlayer\VideoPlayer\bin\Debug\VideoPlayer.exe.config
+C:\Users\noris\Desktop\VideoPlayer\VideoPlayer\bin\Debug\VideoPlayer.exe
+C:\Users\noris\Desktop\VideoPlayer\VideoPlayer\bin\Debug\VideoPlayer.pdb
+C:\Users\noris\Desktop\VideoPlayer\VideoPlayer\bin\Debug\MaterialDesignColors.dll
+C:\Users\noris\Desktop\VideoPlayer\VideoPlayer\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\noris\Desktop\VideoPlayer\VideoPlayer\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\noris\Desktop\VideoPlayer\VideoPlayer\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\noris\Desktop\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csprojAssemblyReference.cache
+C:\Users\noris\Desktop\VideoPlayer\VideoPlayer\obj\Debug\Views\MainWindow.g.cs
+C:\Users\noris\Desktop\VideoPlayer\VideoPlayer\obj\Debug\App.g.cs
+C:\Users\noris\Desktop\VideoPlayer\VideoPlayer\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\noris\Desktop\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer_MarkupCompile.cache
+C:\Users\noris\Desktop\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer_MarkupCompile.lref
+C:\Users\noris\Desktop\VideoPlayer\VideoPlayer\obj\Debug\App.baml
+C:\Users\noris\Desktop\VideoPlayer\VideoPlayer\obj\Debug\Views\MainWindow.baml
+C:\Users\noris\Desktop\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.g.resources
+C:\Users\noris\Desktop\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.Properties.Resources.resources
+C:\Users\noris\Desktop\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csproj.GenerateResource.cache
+C:\Users\noris\Desktop\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csproj.CoreCompileInputs.cache
+C:\Users\noris\Desktop\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csproj.CopyComplete
+C:\Users\noris\Desktop\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.exe
+C:\Users\noris\Desktop\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.pdb
+C:\Users\Artem\Desktop\VideoPlayer\VideoPlayer\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Artem\Desktop\VideoPlayer\VideoPlayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Artem\Desktop\VideoPlayer\VideoPlayer\bin\Debug\Ninject.dll
+C:\Users\Artem\Desktop\VideoPlayer\VideoPlayer\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Artem\Desktop\VideoPlayer\VideoPlayer\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Artem\Desktop\VideoPlayer\VideoPlayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Artem\Desktop\VideoPlayer\VideoPlayer\bin\Debug\Ninject.xml
+C:\Users\Artem\Desktop\VideoPlayer\VideoPlayer\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Artem\Desktop\VideoPlayer\VideoPlayer\obj\Debug\Styles\Style.baml
+C:\Users\Artem\Desktop\VideoPlayer\VideoPlayer\obj\Debug\Views\EditView.g.cs
+C:\Users\Artem\Desktop\VideoPlayer\VideoPlayer\obj\Debug\Views\EditView.baml
+C:\Users\Artem\Desktop\VideoPlayer — копия\VideoPlayer\bin\Debug\VideoPlayer.exe.config
+C:\Users\Artem\Desktop\VideoPlayer — копия\VideoPlayer\bin\Debug\VideoPlayer.exe
+C:\Users\Artem\Desktop\VideoPlayer — копия\VideoPlayer\bin\Debug\VideoPlayer.pdb
+C:\Users\Artem\Desktop\VideoPlayer — копия\VideoPlayer\bin\Debug\MaterialDesignColors.dll
+C:\Users\Artem\Desktop\VideoPlayer — копия\VideoPlayer\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Artem\Desktop\VideoPlayer — копия\VideoPlayer\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Artem\Desktop\VideoPlayer — копия\VideoPlayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Artem\Desktop\VideoPlayer — копия\VideoPlayer\bin\Debug\Ninject.dll
+C:\Users\Artem\Desktop\VideoPlayer — копия\VideoPlayer\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Artem\Desktop\VideoPlayer — копия\VideoPlayer\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Artem\Desktop\VideoPlayer — копия\VideoPlayer\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Artem\Desktop\VideoPlayer — копия\VideoPlayer\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Artem\Desktop\VideoPlayer — копия\VideoPlayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Artem\Desktop\VideoPlayer — копия\VideoPlayer\bin\Debug\Ninject.xml
+C:\Users\Artem\Desktop\VideoPlayer — копия\VideoPlayer\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Artem\Desktop\VideoPlayer — копия\VideoPlayer\obj\Debug\Views\EditView.g.cs
+C:\Users\Artem\Desktop\VideoPlayer — копия\VideoPlayer\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Artem\Desktop\VideoPlayer — копия\VideoPlayer\obj\Debug\App.g.cs
+C:\Users\Artem\Desktop\VideoPlayer — копия\VideoPlayer\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Artem\Desktop\VideoPlayer — копия\VideoPlayer\obj\Debug\VideoPlayer_MarkupCompile.cache
+C:\Users\Artem\Desktop\VideoPlayer — копия\VideoPlayer\obj\Debug\VideoPlayer_MarkupCompile.lref
+C:\Users\Artem\Desktop\VideoPlayer — копия\VideoPlayer\obj\Debug\App.baml
+C:\Users\Artem\Desktop\VideoPlayer — копия\VideoPlayer\obj\Debug\Views\EditView.baml
+C:\Users\Artem\Desktop\VideoPlayer — копия\VideoPlayer\obj\Debug\Styles\Style.baml
+C:\Users\Artem\Desktop\VideoPlayer — копия\VideoPlayer\obj\Debug\Views\MainWindow.baml
+C:\Users\Artem\Desktop\VideoPlayer — копия\VideoPlayer\obj\Debug\VideoPlayer.g.resources
+C:\Users\Artem\Desktop\VideoPlayer — копия\VideoPlayer\obj\Debug\VideoPlayer.Properties.Resources.resources
+C:\Users\Artem\Desktop\VideoPlayer — копия\VideoPlayer\obj\Debug\VideoPlayer.csproj.GenerateResource.cache
+C:\Users\Artem\Desktop\VideoPlayer — копия\VideoPlayer\obj\Debug\VideoPlayer.csproj.CoreCompileInputs.cache
+C:\Users\Artem\Desktop\VideoPlayer — копия\VideoPlayer\obj\Debug\VideoPlayer.csproj.CopyComplete
+C:\Users\Artem\Desktop\VideoPlayer — копия\VideoPlayer\obj\Debug\VideoPlayer.exe
+C:\Users\Artem\Desktop\VideoPlayer — копия\VideoPlayer\obj\Debug\VideoPlayer.pdb
+C:\Users\Artem\Desktop\VideoPlayer — копия\VideoPlayer\bin\Debug\MyToolkit.dll
+C:\Users\Artem\Desktop\VideoPlayer — копия\VideoPlayer\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Artem\Desktop\VideoPlayer — копия\VideoPlayer\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Artem\Desktop\VideoPlayer — копия\VideoPlayer\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Artem\Desktop\VideoPlayer — копия\VideoPlayer\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Artem\Desktop\VideoPlayer — копия\VideoPlayer\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Artem\Desktop\VideoPlayer — копия\VideoPlayer\bin\Debug\MyToolkit.xml
+C:\Users\Artem\Desktop\VideoPlayer — копия\VideoPlayer\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Artem\Desktop\VideoPlayer — копия\VideoPlayer\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Artem\Desktop\VideoPlayer — копия\VideoPlayer\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Artem\Desktop\VideoPlayer — копия\VideoPlayer\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Artem\Desktop\VideoPlayer — копия\VideoPlayer\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Artem\Desktop\VideoPlayer — копия\VideoPlayer\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Artem\Desktop\VideoPlayer — копия\VideoPlayer\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Artem\Desktop\VideoPlayer — копия\VideoPlayer\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Artem\Desktop\VideoPlayer — копия\VideoPlayer\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Artem\Desktop\VideoPlayer — копия\VideoPlayer\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Artem\Desktop\VideoPlayer — копия\VideoPlayer\obj\Debug\VideoPlayer.csprojAssemblyReference.cache
+C:\Users\Artem\Desktop\WPF\VideoPlayer\VideoPlayer\bin\Debug\VideoPlayer.exe.config
+C:\Users\Artem\Desktop\WPF\VideoPlayer\VideoPlayer\bin\Debug\VideoPlayer.exe
+C:\Users\Artem\Desktop\WPF\VideoPlayer\VideoPlayer\bin\Debug\VideoPlayer.pdb
+C:\Users\Artem\Desktop\WPF\VideoPlayer\VideoPlayer\bin\Debug\MaterialDesignColors.dll
+C:\Users\Artem\Desktop\WPF\VideoPlayer\VideoPlayer\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Artem\Desktop\WPF\VideoPlayer\VideoPlayer\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Artem\Desktop\WPF\VideoPlayer\VideoPlayer\bin\Debug\MyToolkit.dll
+C:\Users\Artem\Desktop\WPF\VideoPlayer\VideoPlayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Artem\Desktop\WPF\VideoPlayer\VideoPlayer\bin\Debug\Ninject.dll
+C:\Users\Artem\Desktop\WPF\VideoPlayer\VideoPlayer\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Artem\Desktop\WPF\VideoPlayer\VideoPlayer\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Artem\Desktop\WPF\VideoPlayer\VideoPlayer\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Artem\Desktop\WPF\VideoPlayer\VideoPlayer\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Artem\Desktop\WPF\VideoPlayer\VideoPlayer\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Artem\Desktop\WPF\VideoPlayer\VideoPlayer\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Artem\Desktop\WPF\VideoPlayer\VideoPlayer\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Artem\Desktop\WPF\VideoPlayer\VideoPlayer\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Artem\Desktop\WPF\VideoPlayer\VideoPlayer\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Artem\Desktop\WPF\VideoPlayer\VideoPlayer\bin\Debug\MyToolkit.xml
+C:\Users\Artem\Desktop\WPF\VideoPlayer\VideoPlayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Artem\Desktop\WPF\VideoPlayer\VideoPlayer\bin\Debug\Ninject.xml
+C:\Users\Artem\Desktop\WPF\VideoPlayer\VideoPlayer\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Artem\Desktop\WPF\VideoPlayer\VideoPlayer\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Artem\Desktop\WPF\VideoPlayer\VideoPlayer\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Artem\Desktop\WPF\VideoPlayer\VideoPlayer\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Artem\Desktop\WPF\VideoPlayer\VideoPlayer\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Artem\Desktop\WPF\VideoPlayer\VideoPlayer\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Artem\Desktop\WPF\VideoPlayer\VideoPlayer\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Artem\Desktop\WPF\VideoPlayer\VideoPlayer\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Artem\Desktop\WPF\VideoPlayer\VideoPlayer\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Artem\Desktop\WPF\VideoPlayer\VideoPlayer\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Artem\Desktop\WPF\VideoPlayer\VideoPlayer\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Artem\Desktop\WPF\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csprojAssemblyReference.cache
+C:\Users\Artem\Desktop\WPF\VideoPlayer\VideoPlayer\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Artem\Desktop\WPF\VideoPlayer\VideoPlayer\obj\Debug\App.g.cs
+C:\Users\Artem\Desktop\WPF\VideoPlayer\VideoPlayer\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Artem\Desktop\WPF\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer_MarkupCompile.cache
+C:\Users\Artem\Desktop\WPF\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer_MarkupCompile.lref
+C:\Users\Artem\Desktop\WPF\VideoPlayer\VideoPlayer\obj\Debug\App.baml
+C:\Users\Artem\Desktop\WPF\VideoPlayer\VideoPlayer\obj\Debug\Views\MainWindow.baml
+C:\Users\Artem\Desktop\WPF\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.g.resources
+C:\Users\Artem\Desktop\WPF\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.Properties.Resources.resources
+C:\Users\Artem\Desktop\WPF\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csproj.GenerateResource.cache
+C:\Users\Artem\Desktop\WPF\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csproj.CoreCompileInputs.cache
+C:\Users\Artem\Desktop\WPF\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csproj.CopyComplete
+C:\Users\Artem\Desktop\WPF\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.exe
+C:\Users\Artem\Desktop\WPF\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.pdb
+C:\Users\Artem\Desktop\WPF\VideoPlayer\VideoPlayer\obj\Debug\Views\PlayerView.g.cs
+C:\Users\Artem\Desktop\WPF\VideoPlayer\VideoPlayer\obj\Debug\Views\PlayerView.baml
+C:\Users\Artem\Desktop\WPF\VideoPlayer\VideoPlayer\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Artem\Desktop\WPF\VideoPlayer\VideoPlayer\obj\Debug\Styles\Dark.baml
+C:\Users\Artem\Desktop\WPF\VideoPlayer\VideoPlayer\obj\Debug\Styles\Light.baml
+C:\Users\Artem\Desktop\WPF\VideoPlayer\VideoPlayer\obj\Debug\Language\EN\RecourceString.baml
+C:\Users\Artem\Desktop\WPF\VideoPlayer\VideoPlayer\obj\Debug\Language\RU\RecourceString.baml
+C:\Users\Artem\Desktop\WPF — копия\VideoPlayer\VideoPlayer\bin\Debug\VideoPlayer.exe.config
+C:\Users\Artem\Desktop\WPF — копия\VideoPlayer\VideoPlayer\bin\Debug\VideoPlayer.exe
+C:\Users\Artem\Desktop\WPF — копия\VideoPlayer\VideoPlayer\bin\Debug\VideoPlayer.pdb
+C:\Users\Artem\Desktop\WPF — копия\VideoPlayer\VideoPlayer\bin\Debug\MaterialDesignColors.dll
+C:\Users\Artem\Desktop\WPF — копия\VideoPlayer\VideoPlayer\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Artem\Desktop\WPF — копия\VideoPlayer\VideoPlayer\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Artem\Desktop\WPF — копия\VideoPlayer\VideoPlayer\bin\Debug\MyToolkit.dll
+C:\Users\Artem\Desktop\WPF — копия\VideoPlayer\VideoPlayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Artem\Desktop\WPF — копия\VideoPlayer\VideoPlayer\bin\Debug\Ninject.dll
+C:\Users\Artem\Desktop\WPF — копия\VideoPlayer\VideoPlayer\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Artem\Desktop\WPF — копия\VideoPlayer\VideoPlayer\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Artem\Desktop\WPF — копия\VideoPlayer\VideoPlayer\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Artem\Desktop\WPF — копия\VideoPlayer\VideoPlayer\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Artem\Desktop\WPF — копия\VideoPlayer\VideoPlayer\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Artem\Desktop\WPF — копия\VideoPlayer\VideoPlayer\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Artem\Desktop\WPF — копия\VideoPlayer\VideoPlayer\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Artem\Desktop\WPF — копия\VideoPlayer\VideoPlayer\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Artem\Desktop\WPF — копия\VideoPlayer\VideoPlayer\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Artem\Desktop\WPF — копия\VideoPlayer\VideoPlayer\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Artem\Desktop\WPF — копия\VideoPlayer\VideoPlayer\bin\Debug\MyToolkit.xml
+C:\Users\Artem\Desktop\WPF — копия\VideoPlayer\VideoPlayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Artem\Desktop\WPF — копия\VideoPlayer\VideoPlayer\bin\Debug\Ninject.xml
+C:\Users\Artem\Desktop\WPF — копия\VideoPlayer\VideoPlayer\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Artem\Desktop\WPF — копия\VideoPlayer\VideoPlayer\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Artem\Desktop\WPF — копия\VideoPlayer\VideoPlayer\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Artem\Desktop\WPF — копия\VideoPlayer\VideoPlayer\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Artem\Desktop\WPF — копия\VideoPlayer\VideoPlayer\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Artem\Desktop\WPF — копия\VideoPlayer\VideoPlayer\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Artem\Desktop\WPF — копия\VideoPlayer\VideoPlayer\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Artem\Desktop\WPF — копия\VideoPlayer\VideoPlayer\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Artem\Desktop\WPF — копия\VideoPlayer\VideoPlayer\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Artem\Desktop\WPF — копия\VideoPlayer\VideoPlayer\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Artem\Desktop\WPF — копия\VideoPlayer\VideoPlayer\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Artem\Desktop\WPF — копия\VideoPlayer\VideoPlayer\obj\Debug\Views\PlayerView.g.cs
+C:\Users\Artem\Desktop\WPF — копия\VideoPlayer\VideoPlayer\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Artem\Desktop\WPF — копия\VideoPlayer\VideoPlayer\obj\Debug\App.g.cs
+C:\Users\Artem\Desktop\WPF — копия\VideoPlayer\VideoPlayer\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Artem\Desktop\WPF — копия\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer_MarkupCompile.cache
+C:\Users\Artem\Desktop\WPF — копия\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer_MarkupCompile.lref
+C:\Users\Artem\Desktop\WPF — копия\VideoPlayer\VideoPlayer\obj\Debug\App.baml
+C:\Users\Artem\Desktop\WPF — копия\VideoPlayer\VideoPlayer\obj\Debug\Language\EN\RecourceString.baml
+C:\Users\Artem\Desktop\WPF — копия\VideoPlayer\VideoPlayer\obj\Debug\Language\RU\RecourceString.baml
+C:\Users\Artem\Desktop\WPF — копия\VideoPlayer\VideoPlayer\obj\Debug\Styles\Dark.baml
+C:\Users\Artem\Desktop\WPF — копия\VideoPlayer\VideoPlayer\obj\Debug\Styles\Light.baml
+C:\Users\Artem\Desktop\WPF — копия\VideoPlayer\VideoPlayer\obj\Debug\Views\PlayerView.baml
+C:\Users\Artem\Desktop\WPF — копия\VideoPlayer\VideoPlayer\obj\Debug\Views\MainWindow.baml
+C:\Users\Artem\Desktop\WPF — копия\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.g.resources
+C:\Users\Artem\Desktop\WPF — копия\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.Properties.Resources.resources
+C:\Users\Artem\Desktop\WPF — копия\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csproj.GenerateResource.cache
+C:\Users\Artem\Desktop\WPF — копия\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csproj.CoreCompileInputs.cache
+C:\Users\Artem\Desktop\WPF — копия\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csproj.CopyComplete
+C:\Users\Artem\Desktop\WPF — копия\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.exe
+C:\Users\Artem\Desktop\WPF — копия\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.pdb
+C:\Users\Artem\Desktop\WPF — копия\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csprojAssemblyReference.cache
