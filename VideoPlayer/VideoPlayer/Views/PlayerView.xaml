@@ -78,7 +78,7 @@
             </StackPanel>
         </Grid>
 
-        <!--Content-->
+        <!--Content player-->
         <Grid Grid.Row="1" >
             <Grid.RowDefinitions>
                 <RowDefinition/>
